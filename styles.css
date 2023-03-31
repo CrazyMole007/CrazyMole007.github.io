@@ -91,6 +91,6 @@ a.button:hover i::after {
     left: 80%;
 }
 
-img.vysvedceni {
-    width: 98vw;
+div.vysvedceni {
+    text-align: center;
 }

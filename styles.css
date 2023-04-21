@@ -10,13 +10,31 @@
     text-align: center;
     color: #fff;    
 }
-
+.pismovlevo {
+    text-align: left;
+    color: #fff;    
+}
 .header {
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     gap: 50px;
+}
+
+.kontakt {
+    color: #fff;
+    text-align: left;
+    text-indent: 1400px;
+}
+
+.mail {
+    text-decoration: none;
+    color: #fff;
+}
+
+a.mail:hover {
+    color: gray;
 }
 
 a.button {
@@ -94,3 +112,11 @@ a.button:hover i::after {
 div.vysvedceni {
     text-align: center;
 }
+  
+  #logo:hover {
+    transform: scale(1.1);
+  }
+
+  title {
+    color: #fff;
+  }
